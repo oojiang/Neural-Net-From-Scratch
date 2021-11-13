@@ -10,6 +10,9 @@ My goals were:
 1. Solidify what I had learned from CS188 Artificial Intelligence.
 2. Learn C++.
 3. Prepare for CS189 Machine Learning, which I will be taking in Fall 2021.
+- Update 2021 Oct 11: I had to write a MNIST neural net in Python for EECS189
+last week. I got it to achieve 98% accuracy (2% higher than my C++ implementation), 
+and it trained much faster than my C++ version.
 
 For CS188, I had already done a project on MNIST digit classification, but a
 neural net library had been provided to us which hid a lot of the details. 
